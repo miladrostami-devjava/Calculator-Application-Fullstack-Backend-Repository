@@ -33,7 +33,7 @@ This project is built with:
 
 You can add screenshots to the README by placing images in your repository and referencing them like this:
 
-```markdown
+
 ![Main Page Calculator](./images/mainPage.jpg)
 ![Basic Calculator](./images/basicCalculator.jpg)
 ![Advanced Calculator](./images/advancedCalculator.jpg)
