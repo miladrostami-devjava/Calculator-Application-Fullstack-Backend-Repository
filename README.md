@@ -42,7 +42,7 @@ You can add screenshots to the README by placing images in your repository and r
 
 ## Repository Links
 
-- **Frontend:** [Frontend Repository](https://github.com/miladrostami-devjava/Calculator-Application-Fullstack-frontend-Repository)
+- **Frontend:** [Frontend Repository](https://github.com/miladrostami-devjava/Calculator-Application-Fullstack-frontend-Repository-)
 - **Backend:** [Backend Repository](https://github.com/miladrostami-devjava/Calculator-Application-Fullstack-Backend-Repository)
 
 
